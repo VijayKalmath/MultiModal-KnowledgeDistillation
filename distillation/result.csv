@@ -1,0 +1,10 @@
+Model,CIFAR10,CIFAR100,STL10
+CLIP - Limited Data , 50.08, 4.95,49.99
+Vision (V),54.83,5.55,51.59
+Text (T),45.53,6.07,42.69
+V+T Isolated,51.49,4.63,50.84
+V+T Combined,50.0,5.23,48.44
+V+T NST Loss,47.50,4.61,50.01
+V+T KLDivLoss, 53.08,5.18,52.71
+V+T MSE+Cosine,52.88,5.02,56.16
+V+T Softmax-KLDivLoss, 50.00,5.18,50.00
